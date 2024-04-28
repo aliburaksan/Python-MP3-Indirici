@@ -1,15 +1,14 @@
 ### Designed by SHiROU     ###
 ##  LinkedIn:aliburaksan45 ##
 #   YouTube MP3 Indirici   #
-from tkinter import END
 
+from tkinter import END
 import pyperclip
 from pytube import YouTube
 import customtkinter
 import tkinter
 import os
-from pyperclip import waitForPaste
-import pyautogui
+
 
 
 # Indirme Fonksiyon
