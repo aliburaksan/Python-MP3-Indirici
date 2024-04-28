@@ -3,7 +3,6 @@
 #   YouTube MP3 Indirici   #
 
 from tkinter import END
-import pyperclip
 from pytube import YouTube
 import customtkinter
 import tkinter
